@@ -1,0 +1,5 @@
+openai
+mcp
+flask
+python-dotenv
+requests
